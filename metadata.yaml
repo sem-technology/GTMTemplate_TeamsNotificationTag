@@ -1,4 +1,6 @@
 homepage: "https://www.sem-technology.info"
 versions:
+  - sha: 87d26c41addb5db4864407cef12a022498406b9d
+    changeNotes: update
   - sha: d5c9ee8bd4326b65d809cd304f9b2cda0e40a51a
     changeNotes: Initial Release
